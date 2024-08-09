@@ -1,5 +1,5 @@
 ## Hasil Apk Mentioners
-<p>Masih dalam tahap belajar, maaf jika tidak rapih</p>
+<p>Masih dalam tahap belajar, maaf jika kode dan UI tidak rapih</p>
 <img src="https://github.com/user-attachments/assets/012cb567-d77b-4a17-b32a-f9fa9e958e98" alt="portfolio-apk-transcap" width="250"/>
 <img src="https://github.com/user-attachments/assets/95fac9a5-13aa-4556-8ab5-78fbc3808262" alt="portfolio-apk-transcap" width="250"/>
 <img src="https://github.com/user-attachments/assets/dc81e200-6704-4a6a-9ef6-cd32c4588bb0" alt="portfolio-apk-transcap" width="250"/>
